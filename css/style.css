@@ -30,7 +30,6 @@
 * 26. Preloader
 * 
 **/
-
 /* ==========================================================================
    01. General Styles
    ========================================================================== */
@@ -1563,6 +1562,7 @@ textarea {
 .header-simple .top .contacts {
 	text-align: left;
 	background: none;
+    text-align:center;
 	font-size: 0;
 	line-height: 0;
 	letter-spacing: .48px;
